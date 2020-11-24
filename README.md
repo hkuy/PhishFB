@@ -1,5 +1,1 @@
-# PhishFB
-Archivos para phishing de facebook via servidor  web
-Pueden colocar la imagen de la victima en esta linea 
-
-<--! property="og:image" content="/sdcard/DCIM/Camera/name4.jpg" />!-->
+https://www.youtube.com/channel/UCKwsmbZY8s2NRGb4Ogv7WNQ
